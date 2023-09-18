@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.91887aa5.chunk.css",
-    "main.js": "./static/js/main.277110e6.chunk.js",
-    "main.js.map": "./static/js/main.277110e6.chunk.js.map",
+    "main.css": "./static/css/main.5a3e5ed9.chunk.css",
+    "main.js": "./static/js/main.b03744af.chunk.js",
+    "main.js.map": "./static/js/main.b03744af.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.083c4606.js",
     "runtime-main.js.map": "./static/js/runtime-main.083c4606.js.map",
     "static/css/2.9f0d1029.chunk.css": "./static/css/2.9f0d1029.chunk.css",
-    "static/js/2.44a6e822.chunk.js": "./static/js/2.44a6e822.chunk.js",
-    "static/js/2.44a6e822.chunk.js.map": "./static/js/2.44a6e822.chunk.js.map",
+    "static/js/2.01ea7d68.chunk.js": "./static/js/2.01ea7d68.chunk.js",
+    "static/js/2.01ea7d68.chunk.js.map": "./static/js/2.01ea7d68.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.9f0d1029.chunk.css.map": "./static/css/2.9f0d1029.chunk.css.map",
-    "static/css/main.91887aa5.chunk.css.map": "./static/css/main.91887aa5.chunk.css.map",
-    "static/js/2.44a6e822.chunk.js.LICENSE.txt": "./static/js/2.44a6e822.chunk.js.LICENSE.txt",
+    "static/css/main.5a3e5ed9.chunk.css.map": "./static/css/main.5a3e5ed9.chunk.css.map",
+    "static/js/2.01ea7d68.chunk.js.LICENSE.txt": "./static/js/2.01ea7d68.chunk.js.LICENSE.txt",
     "static/media/Chevron (Arrow Left).960106b2.svg": "./static/media/Chevron (Arrow Left).960106b2.svg",
     "static/media/Chevron (Arrow Right).70f42d77.svg": "./static/media/Chevron (Arrow Right).70f42d77.svg",
     "static/media/ProductDetails.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.083c4606.js",
     "static/css/2.9f0d1029.chunk.css",
-    "static/js/2.44a6e822.chunk.js",
-    "static/css/main.91887aa5.chunk.css",
-    "static/js/main.277110e6.chunk.js"
+    "static/js/2.01ea7d68.chunk.js",
+    "static/css/main.5a3e5ed9.chunk.css",
+    "static/js/main.b03744af.chunk.js"
   ]
 }
