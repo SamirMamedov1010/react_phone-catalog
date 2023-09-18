@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.5a3e5ed9.chunk.css",
-    "main.js": "./static/js/main.6a2f954d.chunk.js",
-    "main.js.map": "./static/js/main.6a2f954d.chunk.js.map",
+    "main.css": "./static/css/main.9c1749d2.chunk.css",
+    "main.js": "./static/js/main.644cbea1.chunk.js",
+    "main.js.map": "./static/js/main.644cbea1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.083c4606.js",
     "runtime-main.js.map": "./static/js/runtime-main.083c4606.js.map",
     "static/css/2.9f0d1029.chunk.css": "./static/css/2.9f0d1029.chunk.css",
-    "static/js/2.01ea7d68.chunk.js": "./static/js/2.01ea7d68.chunk.js",
-    "static/js/2.01ea7d68.chunk.js.map": "./static/js/2.01ea7d68.chunk.js.map",
+    "static/js/2.42611849.chunk.js": "./static/js/2.42611849.chunk.js",
+    "static/js/2.42611849.chunk.js.map": "./static/js/2.42611849.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.9f0d1029.chunk.css.map": "./static/css/2.9f0d1029.chunk.css.map",
-    "static/css/main.5a3e5ed9.chunk.css.map": "./static/css/main.5a3e5ed9.chunk.css.map",
-    "static/js/2.01ea7d68.chunk.js.LICENSE.txt": "./static/js/2.01ea7d68.chunk.js.LICENSE.txt",
+    "static/css/main.9c1749d2.chunk.css.map": "./static/css/main.9c1749d2.chunk.css.map",
+    "static/js/2.42611849.chunk.js.LICENSE.txt": "./static/js/2.42611849.chunk.js.LICENSE.txt",
+    "static/media/Cart.89133a0a.svg": "./static/media/Cart.89133a0a.svg",
     "static/media/Chevron (Arrow Left).960106b2.svg": "./static/media/Chevron (Arrow Left).960106b2.svg",
     "static/media/Chevron (Arrow Right).70f42d77.svg": "./static/media/Chevron (Arrow Right).70f42d77.svg",
+    "static/media/Favourites (Heart Like).420ab37d.svg": "./static/media/Favourites (Heart Like).420ab37d.svg",
     "static/media/ProductDetails.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/banner-Ipads.df5b7345.png": "./static/media/banner-Ipads.df5b7345.png",
     "static/media/banner-accessories-new.0cdac209.png": "./static/media/banner-accessories-new.0cdac209.png",
@@ -25,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.083c4606.js",
     "static/css/2.9f0d1029.chunk.css",
-    "static/js/2.01ea7d68.chunk.js",
-    "static/css/main.5a3e5ed9.chunk.css",
-    "static/js/main.6a2f954d.chunk.js"
+    "static/js/2.42611849.chunk.js",
+    "static/css/main.9c1749d2.chunk.css",
+    "static/js/main.644cbea1.chunk.js"
   ]
 }
